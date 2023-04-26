@@ -1,0 +1,5 @@
+Первые_языковые_курсы  2020  БЕРЛИН  STATE  языковые_курсы  OFF_LINE  ALL  6  55
+Лучшая_языковая_школа  2023  БЕРЛИН  COMMERCIAL  языковые_курсы  ON_OFF_LINE  ALL  3  75
+Леди_за_рулем  2021  БЕРЛИН  COMMERCIAL  курсы_вождения  OFF_LINE  FEMALE  18  65
+За_рулем  2002  БЕРЛИН  COMMERCIAL  курсы_вождения  OFF_LINE  ALL  16  65
+Йога_для_беременных  2006  БЕРЛИН  COMMERCIAL  йога  OFF_LINE  FEMALE  18  55
